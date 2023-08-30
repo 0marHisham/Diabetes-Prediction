@@ -47,7 +47,6 @@ The following points were the objective of the project (The main intention was t
 - A user has to put details like Number of Pregnancies, Insulin Level, Age, BMI etc . 
 - Once it get all the fields information , the prediction is displyed on a new page . 
 ### Technologies Used  
-![](https://forthebadge.com/images/badges/made-with-python.svg) 
 
 [<img target="_blank" src="https://github.com/scikit-learn/scikit-learn/blob/master/doc/logos/scikit-learn-logo-small.png">](https://github.com/scikit-learn/)
 <img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>
